@@ -105,17 +105,37 @@ Links:
 
 Lorem Ipsum
 
+Links:
+- [Iterators e Generators em Python](https://pythonacademy.com.br/blog/iterators-e-generators-em-python)
+- [Iteradores, iteráveis e Geradores](https://ichi.pro/pt/iteradores-iteraveis-e-geradores-132206850510725)
+- [Diferença entre Geradores e Iteradores do Python](https://qastack.com.br/programming/2776829/difference-between-pythons-generators-and-iterators)
+
 ## Decoradores em Python
 
 Lorem Ipsum
+
+Links:
+- [Decoradores](https://pythoniluminado.netlify.app/decoradores)
+- [Decoradores em Python](https://wiki.python.org.br/Decoradores_Python_(Python_Decorators))
+- [Como funcionam decoradores em Python](https://pt.stackoverflow.com/questions/23628/como-funcionam-decoradores-em-python)
 
 ## Orientação a Objetos com Python
 
 Lorem Ipsum
 
+Links:
+- [Classes e Objetos - Fundamentos](https://panda.ime.usp.br/pensepy/static/pensepy/13-Classes/classesintro.html)
+- [Python orientado a objetos com o framework Cherrypy](https://www.devmedia.com.br/python-orientado-a-objetos-com-o-framework-cherrypy/33489)
+- [Python e Programação Orientada a Objeto](https://wiki.python.org.br/ProgramacaoOrientadaObjetoPython)
+
 ## Herança e Polimorfismo
 
 Lorem Ipsum
+
+Links:
+- [Polimorfismo em Python](https://www.pythonprogressivo.net/2018/11/Polimorfismo-O-que-Como-Usar-Como-fazer.html)
+- [Herança, Polimorfismo e o super() do Python](https://medium.com/code-rocket-blog/entendendo-o-super-do-python-da17ee8d26ca)
+- [Conceitos e Exemplos – Polimorfismo: Programação Orientada a Objetos](https://www.devmedia.com.br/conceitos-e-exemplos-polimorfismo-programacao-orientada-a-objetos/18701)
 
 ## Manipulando Arquivos CSV e JSON
 
